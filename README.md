@@ -28,6 +28,6 @@ npm start
 ## Screenshots
 
 ![login](https://github.com/HannahRen/signup-react/blob/master/screen%20shots/login.png?raw=true)
-![logout](https://github.com/HannahRen/signup-react/blob/master/screenshots/logout.png?raw=true)
-![profile](https://github.com/HannahRen/signup-react/blob/master/screenshots/profile.png?raw=true)
-![signup](https://github.com/HannahRen/signup-react/blob/master/screenshots/signup.png?raw=true)
+![logout](https://github.com/HannahRen/signup-react/blob/master/screen%20shots/logout.png?raw=true)
+![profile](https://github.com/HannahRen/signup-react/blob/master/screen%20shots/profile.png?raw=true)
+![signup](https://github.com/HannahRen/signup-react/blob/master/screen%20shots/signup.png?raw=true)
